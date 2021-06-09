@@ -38,28 +38,6 @@ You can change the default code for **UNITS** variable that is "si" (Internation
 - **us**: Imperial units
 - **si**: SI units (default)
 
-You can find a list of available languages and unit codes here: https://darksky.net/dev/docs/forecast
-
-### Usage
-Once you have declared environment variables, you can execute the console program:
-
-```sh
-$ cd my-project
-$ python3 forecast.py "Gran Via Street 28,Madrid"
-```
-And you'll get forecast information as output!:
-![Output Example](http://ordermin.com/images/python-weather-forecast-output.png)
-
-> Note: Forecast API is free until 1000 requests per day. For more information, check their FAQ: https://darksky.net/dev/docs/faq
-
-### Contributing
-Feel free to contribute to this project, pull requests and other improvements are welcome. If you have any ideas, just open an issue and tell me what you think, or send me an email to hello (at) ordermin.com
-
-### Licensing
-
-The code in this project is licensed under [MIT LICENSE](https://github.com/gonzaloplaza/python-weather-forecast/blob/master/LICENSE). Read file for more information.
-
-
 
 
 
